@@ -1,0 +1,21 @@
+{
+  "name": "openclerk/securities",
+  "description": "Definitions and implementations of security exchanges in Openclerk",
+  "autoload": {
+    "psr-4": {
+      "SecurityExchange\\": "src",
+      "SecurityExchange\\Tests\\": "test"
+    }
+  },
+  "require": {
+    "openclerk/accounts": "dev-master",
+    "openclerk/apis": "dev-master",
+    "openclerk/config": "dev-master",
+    "openclerk/currencies": "dev-master",
+    "monolog/monolog": "~1.11"
+  },
+  "require-dev": {
+    "soundasleep/component-tests": "dev-master",
+    "openclerk/cryptocurrencies": "dev-master"
+  }
+}

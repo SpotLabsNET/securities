@@ -46,6 +46,8 @@ class HavelockInvestments extends SimpleSecurityExchange {
         'last_trade' => $security['last'],
         'units' => $security['units'],
         'volume' => $security['1d']['vol'],
+        'high' => $security['1d']['max'],
+        'low' => $security['1d']['min'],
       );
     }
 

@@ -85,12 +85,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/openclerk/accounts.git",
-                "reference": "44a864bd255ff35c1c8a9a02fd6c69fc3cd03851"
+                "reference": "88db129513b427813a6bc324f45633c23a752e91"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/openclerk/accounts/zipball/44a864bd255ff35c1c8a9a02fd6c69fc3cd03851",
-                "reference": "44a864bd255ff35c1c8a9a02fd6c69fc3cd03851",
+                "url": "https://api.github.com/repos/openclerk/accounts/zipball/88db129513b427813a6bc324f45633c23a752e91",
+                "reference": "88db129513b427813a6bc324f45633c23a752e91",
                 "shasum": ""
             },
             "require": {
@@ -110,7 +110,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Definitions and implementations of accounts in Openclerk",
-            "time": "2015-04-09 06:08:01"
+            "time": "2015-04-14 05:47:05"
         },
         {
             "name": "openclerk/apis",

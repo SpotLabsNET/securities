@@ -1,3 +1,4 @@
 {
+  "btct": "\\SecurityExchange\\Account\\BTCT",
   "havelock": "\\SecurityExchange\\Account\\HavelockInvestments"
 }
